@@ -1,0 +1,13 @@
+{
+  "name": "conta_bancaria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "@types/readline-sync": "^1.4.8"
+  }
+}
